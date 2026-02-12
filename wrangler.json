@@ -15,6 +15,13 @@
 			"preview_bucket_name": "phshare"
 		}
 	],
+	"r2_buckets": [
+		{
+			"binding": "bucket2",
+			"bucket_name": "phcloud",
+			"preview_bucket_name": "phcloud"
+		}
+	],
 	"observability": {
 		"enabled": true
 	},
